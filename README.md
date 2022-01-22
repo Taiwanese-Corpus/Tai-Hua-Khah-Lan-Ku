@@ -1,7 +1,5 @@
 # Tai-Hua-Khah-Lan-Ku
-台華較難句對照典
-
-黃元興 1992 初版，茄苳出版社。1999 第三版有錄音帶。電子冊請看 [Blog](https://blog.xuite.net/twgadang/twblog/137390285)。
+台華較難句對照典，作者黃元興，茄苳出版社，1992 初版，1999 第三版有錄音帶。電子冊請看 [Blog](https://blog.xuite.net/twgadang/twblog/137390285)。
 
 本專案按台灣教育部ê教典用字koh整理--過。
 
